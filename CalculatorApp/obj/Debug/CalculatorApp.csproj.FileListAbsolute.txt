@@ -1,0 +1,21 @@
+E:\IUBAT\Windpws Form Application\CalculatorSol\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+E:\IUBAT\Windpws Form Application\CalculatorSol\CalculatorApp\bin\Debug\CalculatorApp.exe
+E:\IUBAT\Windpws Form Application\CalculatorSol\CalculatorApp\bin\Debug\CalculatorApp.pdb
+E:\IUBAT\Windpws Form Application\CalculatorSol\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+E:\IUBAT\Windpws Form Application\CalculatorSol\CalculatorApp\obj\Debug\CalculatorApp.CalculatorForm.resources
+E:\IUBAT\Windpws Form Application\CalculatorSol\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+E:\IUBAT\Windpws Form Application\CalculatorSol\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+E:\IUBAT\Windpws Form Application\CalculatorSol\CalculatorApp\obj\Debug\CalculatorApp.exe
+E:\IUBAT\Windpws Form Application\CalculatorSol\CalculatorApp\obj\Debug\CalculatorApp.pdb
+E:\IUBAT\C# Sailor\Windpws Form Application\CalculatorSol\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+E:\IUBAT\C# Sailor\Windpws Form Application\CalculatorSol\CalculatorApp\obj\Debug\CalculatorApp.exe
+E:\IUBAT\C# Sailor\Windpws Form Application\CalculatorSol\CalculatorApp\obj\Debug\CalculatorApp.pdb
+E:\IUBAT\C# Sailor\Windpws Form Application\CalculatorSol\CalculatorApp\bin\Debug\CalculatorApp.exe
+E:\IUBAT\C# Sailor\Windpws Form Application\CalculatorSol\CalculatorApp\bin\Debug\CalculatorApp.pdb
+E:\IUBAT\C# Sailor\Windpws Form Application\CalculatorSol\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+E:\IUBAT\C# Sailor\Windpws Form Application\CalculatorSol\CalculatorApp\obj\Debug\CalculatorApp.CalculatorForm.resources
+E:\IUBAT\C# Sailor\Windpws Form Application\CalculatorSol\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+E:\IUBAT\C# Sailor\Windpws Form Application\CalculatorSol\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+E:\IUBAT\C# Sailor\Windows Form Application\CalculatorSol\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+E:\IUBAT\C# Sailor\Windows Form Application\CalculatorSol\CalculatorApp\obj\Debug\CalculatorApp.exe
+E:\IUBAT\C# Sailor\Windows Form Application\CalculatorSol\CalculatorApp\obj\Debug\CalculatorApp.pdb
